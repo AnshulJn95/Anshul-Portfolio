@@ -21,14 +21,12 @@ const Achievement = () => {
                 <h2>Achievements</h2>
               </div>
               <div style={{ marginBottom: "24px" }}>
-                <p><FaAngleRight /> <strong>Dean's List Excellence Award:</strong> Maintained the highest grade average for 4 consecutive semesters.</p>
-                <p><FaAngleRight /> <strong>CGPA 9.86:</strong> Computer & Communication Engineering, Manipal University Jaipur.</p>
-                <p><FaAngleRight /> <strong>NewsInsight Top 3 Project, Oct 2025:</strong> AI-powered news analysis platform recognized for innovation.</p>
+                <p><FaAngleRight /> <strong>Dean's List Excellence Award:</strong> Maintained the highest grade average for 6 consecutive semesters.</p>
+                <p><FaAngleRight /> <strong>CGPA 9.85:</strong> Computer & Communication Engineering, Manipal University Jaipur.</p>
                 <p><FaAngleRight /> <strong>Best Delegate Award:</strong> Salwan Model United Nations, May 2019.</p>
-                <p><FaAngleRight /> <strong>Executive Board (Rapporteur):</strong> Salwan Public School MUN, June 2020.</p>
                 <p><FaAngleRight /> <strong>Core Team, CyberSpace Web Dev:</strong> Manipal University Jaipur.</p>
                 <p><FaAngleRight /> <strong>Internships:</strong> Siemens (Bangalore), Acuvre Consulting (Bangalore), College of Aviation Technology (Dhaka).</p>
-                <p><FaAngleRight /> <strong>Certified:</strong> Java, C Programming, Machine Learning, Data Science.</p>
+                <p><FaAngleRight /> <strong>Certified:</strong> Advanced C++ Programming, Machine Learning, Data Science.</p>
                 <p><FaAngleRight /> <strong>DSA Practice:</strong> Solved 250+ Data Structures & Algorithms problems online.</p>
               </div>
             </div>
