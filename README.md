@@ -1,5 +1,3 @@
-# Anshul_Portfolio
-
 ## 📝 Project Overview
 Anshul_Portfolio is a full-stack personal developer website featuring separate frontend and backend components. The frontend leverages React and SCSS for modular, maintainable, and scalable styling, while the backend offers secure API endpoints to handle dynamic content and contact requests.[1][2]
 
