@@ -40,7 +40,7 @@ Anshul_Portfolio/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Anshul_Portfolio.git
+   git clone https://github.com/AnshulJn95/Anshul_Portfolio.git
    cd Anshul_Portfolio
    ```
 
